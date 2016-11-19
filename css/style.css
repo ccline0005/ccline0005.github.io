@@ -2,15 +2,15 @@
 
 .panel-heading  {background-color: #ff0000;
                 font-size: 12pt;
-                color: #000000;
-                text-decoration: bold;}
+                color: white;
+                font-weight: bold;}
 
 .panel-body  {background-color: #ff0000;
                 font-size: 12pt;
-                color: #000000;
-                text-decoration: bold;}
+                color: white;
+                font-weight: bold;}
 
 .panel-footer  {background-color: #ff0000;
                 font-size: 12pt;
-                color: #000000;
-                text-decoration: bold;}
+                color: white;
+                font-weight: bold;}
